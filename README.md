@@ -1,8 +1,8 @@
 - 🤙 Hi, I’m @MySpaceEmoCat
-- 👀 I can't cook
-- 🌱 I’m charging my phone
-- 💞️ eating hot chip
-- 📫 and lying
+- 👀 I can't cook, all I know is how to
+- 🌱 charge my phone
+- 💞️ eat hot chip
+- 📫 and lie
 
 <!---
 MySpaceEmoCat/MySpaceEmoCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
