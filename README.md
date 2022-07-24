@@ -1,5 +1,5 @@
 - 🤙 Hi, I’m @MySpaceEmoCat
-- 👀 I can't cook, all I know is how to
+- 👀 I can't code, all I know is how to
 - 🌱 charge my phone
 - 💞️ eat hot chip
 - 📫 and lie
